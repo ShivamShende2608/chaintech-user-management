@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { AuthContext } from '../context/AuthContext';
 import { Container, Card, Button, Row, Col } from 'react-bootstrap';
-import { FiUser, FiMail, FiPhone, FiCalendar } from 'react-icons/fi';
+import {  FiMail, FiPhone, FiCalendar } from 'react-icons/fi';
 
 const Dashboard = () => {
   const navigate = useNavigate();
