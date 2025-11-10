@@ -23,6 +23,6 @@ npm start
 \`\`\`
 
 ## Submission
-- **Candidate:** Your Name
-- **Email:** your.email@example.com
+- **Candidate:** Shivam Shende
+- **Email:** shivamshende2608@gmail.com
 - **Date:** November 10, 2025
